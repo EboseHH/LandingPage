@@ -73,7 +73,7 @@ p {
     padding: 20px;
 }
 .footer-link{
-   margin: 20px 10px 0px;
+   margin: 20px 10px 10px;
 }
 .btn {
     background: #588157;
@@ -100,3 +100,17 @@ p {
     background-image: linear-gradient(to bottom, #DAD7CD, #A3B18A);
     text-decoration: none;
   }
+  a{
+      color: #344E41;
+      font-family: 'Merriweather', sans-serif;
+      margin: 0px 10px;
+      text-decoration: none;
+  }
+  a:hover{
+color: #588157;
+  }
+.copyright{
+    color: #344E41;
+    font-size: small;
+    padding: 20px 0;
+}
